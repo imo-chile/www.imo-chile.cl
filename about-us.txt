@@ -1,7 +1,104 @@
-2:I[4707,[],""]
+3:I[4707,[],""]
 4:I[6423,[],""]
 7:I[8003,["185","static/chunks/app/layout-f946993beae0edab.js"],""]
-3:["slug","2025-01-01-evento-independiente","d"]
+2:T171f,<div class="background-cover inner-shadow"
+     style="background-image: url(cache2/images/imo-en-el-cabo-de-hornos_1000x0_cover.1cucq40.jpg)">
+    <div class="section-container bg-dark2">
+        <div class="container-padding">
+            <div class="grid-padding jumbo-title-1">
+
+                <div class="layout-column layout-center">
+                    <h1 style="font-size:3em;text-align:center;overflow:hidden">Nosotros</h1>
+                </div>
+                <div class="layout-column layout-center">
+                    <div style="font-size:1.4em;text-align:center;overflow:hidden">
+                        Aspiramos a convertirnos en un Instituto reconocido internacionalmente en la investigación
+                        oceanográfica y la educación, liderando la exploración de la zona central y sud-oriental del
+                        Pacífico, impactando en el país y la sociedad en general.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section-container">
+    <div class="container-padding">
+        <div>
+            <h1>Historia</h1>
+            <p>El Instituto Milenio de Oceanografía (IMO) es un centro de excelencia que nace en diciembre de 2013 con
+                el fin de estudiar de los procesos físicos, biogeoquímicos y ecológicos de mar abierto así como a la
+                exploración del océano profundo y abisal, que incluye a los ecosistemas pelágicos asociados a montes
+                submarinos; islas oceánicas y la Fosa de Atacama.</p>
+
+            <p>Este Instituto fue creado a través de la Iniciativa Científica Milenio (ICM) del Ministerio de Economía,
+                Fomento y Turismo cuyo objetivo es contribuir al aumento de la competitividad científica y tecnológica
+                de Chile, entendida como la capacidad de generar, adaptar, contextualizar y aplicar nuevos conocimientos
+                científicos y tecnológicos en favor del desarrollo social y económico del país.</p>
+
+            <p>Con el objetivo de liderar la exploración del Océano Pacífico Sur Oriental, el Instituto Milenio de
+                Oceanografía (IMO) tiene un fuerte componente de colaboración nacional e internacional y actualmente se
+                encuentra planificando diversas expediciones oceanográficas orientadas al descubrimiento y prueba de
+                hipótesis a bordo del nuevo buque científico Cabo de Hornos.</p></div>
+    </div>
+</div>
+<div class="section-container">
+    <div>
+        <div class="grid-padding section-mision-vision">
+            <div class="bg-dark1 container-padding">
+                <h1>Misión</h1>
+                <p>La misión del Instituto Milenio de Oceanografía es:</p>
+                <h2>Investigación</h2>
+
+                <p>Realizar investigación de frontera e interdisciplinaria en oceanografía, abordando problemáticas
+                    científicas en forma integrativa y colaborativa.</p>
+
+                <h2>Exploración</h2>
+
+                <p>Desarrollar y aplicar nuevas tecnologías y plataformas para la observación y el trabajo experimental
+                    en el océano, incluyendo el uso del nuevo buque chileno de investigación Cabo de Hornos, para llegar
+                    a zonas inexploradas del Pacífico Sur.</p>
+
+                <h2>Formación</h2>
+
+                <p>Aumentar los recursos humanos en ciencias del mar en Chile y Sudamérica a través de la educación
+                    superior y la formación en investigación basada en la observación y experimentación directa en el
+                    mar.</p>
+
+                <h2>Extensión</h2>
+
+                <p>Informar y crear conciencia en el público en general y los tomadores de decisiones sobre la
+                    relevancia del océano, su conservación y su relación con los seres humanos y el cambio global.</p>
+            </div>
+            <div class="bg-dark1 container-padding">
+                <h1>Visión</h1>
+                <p>Aspiramos a convertirnos en un Instituto reconocido internacionalmente en la investigación
+                    oceanográfica y la educación, liderando la exploración de la zona central y sud-oriental del
+                    Pacífico, impactando en el país y la sociedad en general.</p>
+                <p>Nuestro compromiso es brindar un ambiente intelectualmente estimulante para la generación y difusión
+                    del conocimiento científico que transforma y genera nuevas comprensiones sobre el océano, desde una
+                    mirada creativa, audaz y colaborativa.</p>
+                <div class="box-shadow responsive responsive-16-9">
+                    <iframe src="https://www.youtube.com/embed/08Ou3ZIk-nM"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section-container bg-dark2" style="margin-top:1em">
+    <div class="container-padding">
+        <h1>Estamos en las siguientes redes de colaboración</h1>
+        <div class="layout-row layout-wrap layout-center grid-padding"><a href="http://hubapta.com" title="Hub APTA"
+                                                                          class="container-padding bg-hover"><img
+                src="cache2/images/logo-apta-claro_0x100_cover.1cus6n6.png"/></a><a href="http://laoca.cl" title="LAOCA"
+                                                                                    class="container-padding bg-hover"><img
+                src="cache2/images/laoca-red_0x100_cover.1dejs42.jpg"/></a><a href="#"
+                                                                              title="GDRI &quot;DIVERSITY, EVOLUTION AND BIOTECHNOLOGY OF MARINE ALGAE&quot;"
+                                                                              class="container-padding bg-hover"></a>
+        </div>
+    </div>
+</div>
+
+
 5:T27e2,<div class="section-container" style="background-color:rgba(255,255,255, 0.3);">
     <header style="position:relative;">
         <style>.s1 {
@@ -342,6 +439,6 @@
         }</style>
         <div class="sf17">© 2025 - Instituto Milenio de Oceanografía</div>
     </div>
-</div>0:["1Q7Os5TfBjxy-vhPpCA3O",[[["",{"children":["posts",{"children":[["slug","2025-01-01-evento-independiente","d"],{"children":["__PAGE__?{\"slug\":\"2025-01-01-evento-independiente\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","2025-01-01-evento-independiente","d"],{"children":["__PAGE__",{},[["$L1",["$","div",null,{"children":[["$","div",null,{"className":"section-container","children":["$","div",null,{"className":"container-padding","children":["$","div",null,{"className":"layout-row layout-space-between grid-padding _slug__s11__nzwzF","children":["$","div",null,{"children":["$","div",null,{"className":"bigger-font","children":[["$","h1",null,{"style":{"fontWeight":"bold"},"children":"Festival de Cine del Mar se convierte en evento independiente"}],["$","i",null,{"className":"fa fa-clock-o fa-fw s0 s7"}],["$","span",null,{"children":"2025-01-01"}]]}]}]}]}]}],["$","div",null,{"className":"section-container bg-dark1","children":["$","div",null,{"className":"container-padding","children":["$","div",null,{"style":{"paddingTop":"2em","paddingBottom":"2em"},"children":["$","img",null,{"style":{"paddingBottom":"0","boxShadow":"0px 10px 20px black"},"src":"/assets/gen/images/news/aa9990.jpg","alt":"foto1","width":"100%"}]}]}]}],["$","div",null,{"className":"section-container bg-dark2","children":["$","div",null,{"className":"container-padding","children":["$","div",null,{"className":"TextBox_textBox__nDRVv","style":{},"children":["$","div",null,{"className":"_slug__imageBox__g7VpB","children":[["$","p","0",{"children":"Del 8 al 10 de mayo de este año, la ciudad de Concepción (Región del Biobío, Chile) será el escenario para el estreno de las películas seleccionadas que se presentarán en el 3er Festival de Cine Internacional de Cine del Mar."}],["$","p","1",{"children":"El equipo organizador del Festival de Cine del Mar en 2025 está integrado por: Pablo Rosenblatt (director), Osvaldo Ulloa (subdirector), Bárbara Léniz (directora de Producción y Educación), Paulina Hernández (directora de Comunicaciones), Edwin Rodríguez (director de Marketing) y Felipe Gamonal (director Artístico). "}],["$","p","2",{"children":"\"La misión del festival es cuestionar, debatir y pensar, juntos, en un futuro inspirador. Nuestro objetivo es actuar como un puente entre las actividades artísticas y el conocimiento científico, facilitando el intercambio y el diálogo, para brindarle al público las claves para comprender los desafíos científicos actuales y su impacto social\", explica el director del evento, Pablo Rosenblatt."}],["$","p","3",{"children":"Cabe destacar que esta es la primera vez que el Festival se organiza como evento independiente, ya que las dos versiones anteriores fueron parte del programa del evento Puerto de Ideas Biobío, en los años 2022 y 2023."}]]}]}]}]}]]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a216ae1737b772f7.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$3","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8e3abf49f0819d06.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"es","children":[["$","head",null,{"children":[["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/assets/icons/imo16.png","sizes":"16x16"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/assets/icons/imo32.png","sizes":"32x32"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/assets/icons/imo96.png","sizes":"96x96"}],["$","link",null,{"rel":"apple-touch-icon","href":"/assets/icons/imo180.png","sizes":"180x180"}]]}],["$","body",null,{"style":{"padding":0,"margin":0},"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$5"}}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}],["$","$L7",null,{"src":"/bundle/index.min.js","strategy":"afterInteractive"}]]}]]}]],null],null],["$L8",null]]]]
-8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Festival de Cine del Mar se convierte en evento independiente"}],["$","meta","3",{"name":"description","content":"El tradicional Festival Internacional de Cine del Mar, organizado por el Instituto Milenio de Oceanografía, se realizó en sus versiones anteriores en el marco del Festival Puerto de Ideas. Este 2025, este evento internacional tendrá un sello independiente."}],["$","meta","4",{"property":"og:title","content":"Festival de Cine del Mar se convierte en evento independiente"}],["$","meta","5",{"property":"og:description","content":"El tradicional Festival Internacional de Cine del Mar, organizado por el Instituto Milenio de Oceanografía, se realizó en sus versiones anteriores en el marco del Festival Puerto de Ideas. Este 2025, este evento internacional tendrá un sello independiente."}],["$","meta","6",{"property":"og:image","content":"http://localhost:3000/assets/gen/images/news/032b2a.png"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"Festival de Cine del Mar se convierte en evento independiente"}],["$","meta","9",{"name":"twitter:description","content":"El tradicional Festival Internacional de Cine del Mar, organizado por el Instituto Milenio de Oceanografía, se realizó en sus versiones anteriores en el marco del Festival Puerto de Ideas. Este 2025, este evento internacional tendrá un sello independiente."}],["$","meta","10",{"name":"twitter:image","content":"http://localhost:3000/assets/gen/images/news/032b2a.png"}]]
+</div>0:["1Q7Os5TfBjxy-vhPpCA3O",[[["",{"children":["about-us",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["about-us",{"children":["__PAGE__",{},[["$L1",["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","about-us","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8e3abf49f0819d06.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"es","children":[["$","head",null,{"children":[["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/assets/icons/imo16.png","sizes":"16x16"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/assets/icons/imo32.png","sizes":"32x32"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/assets/icons/imo96.png","sizes":"96x96"}],["$","link",null,{"rel":"apple-touch-icon","href":"/assets/icons/imo180.png","sizes":"180x180"}]]}],["$","body",null,{"style":{"padding":0,"margin":0},"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$5"}}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}],["$","$L7",null,{"src":"/bundle/index.min.js","strategy":"afterInteractive"}]]}]]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Instituto Milenio de Oceanografía"}]]
 1:null

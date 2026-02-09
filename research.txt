@@ -1,291 +1,78 @@
-3:I[242,["931","static/chunks/app/page-6fee5dac0800c1c6.js"],"default"]
-4:I[7389,["931","static/chunks/app/page-6fee5dac0800c1c6.js"],"default"]
-6:I[4707,[],""]
-7:I[6423,[],""]
-9:I[8003,["185","static/chunks/app/layout-f946993beae0edab.js"],""]
-2:T5f04,<div style="overflow:hidden;position:relative;height:500px;" class="bg-dark3">
-    <style>.s11 {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        min-width: 100%;
-        transition: left 0.5s;
-    }
-
-    .s11 > * {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        min-width: 100%;
-    }</style>
-    <style>.s13 {
-        position: relative;
-        width: 100%;
-        height: 100%;
-        overflow: hidden;
-        min-width: 100%;
-    }
-
-    .s13 > * {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-    }</style>
-    <style>.s14 {
-        flex-grow: 3;
-    }</style>
-    <style>.s15 {
-        height: 100%;
-        width: auto;
-        z-index: 1;
-        box-shadow: 0 0 1em 0 black;
-    }</style>
-    <style>.s16 {
-        flex-grow: 1;
-    }</style>
-    <style>.s17 {
-        display: flex;
-        justify-content: flex-end;
-        flex-direction: column;
-    }</style>
-    <div id="legacy-showcase"></div>
-    <style>.s12 {
-        position: absolute;
-        top: 50%;
-        padding: 0.6em;
-        font-size: 1.5em;
-    }</style>
-    <div onclick="showcase_advance(document.getElementById('t0'), -1)" style="z-index:3;left:0;"
-         class="bg-dark2 bg-hover s12"><i class="fa fa-chevron-circle-left s0"></i></div>
-    <div onclick="showcase_advance(document.getElementById('t0'), 1)" style="z-index:3;right:0;"
-         class="bg-dark2 bg-hover s12"><i class="fa fa-chevron-circle-right s0"></i></div>
-</div>
-<script>
-    function showcase_advance(e, inc, clear = true) {
-        if (clear === true) clearInterval(e.timer);
-        if (e.i === undefined) e.i = 0;
-        e.i = (e.i + inc);
-        var length = 0;
-        for (var i = 0; i < e.children.length; i++)
-            if (e.children[i].tagName.toLowerCase() == 'div')
-                length++;
-        if (e.i < 0) e.i = length - 1;
-        e.i %= length;
-        e.style.left = (e.i * -100).toString() + '%';
-    }
-</script>
-<script>
-    document.getElementById('t0').timer = setInterval(function () {
-        showcase_advance(document.getElementById('t0'), 1, false);
-    }, 8000);
-</script>
-<div style="margin-top:1em;" class="section-container">
-    <div>
-        <style>.s18 {
-            display: flex;
-        }
-
-        @media ( max-width: 1040px) {
-            .s18 {
+3:I[4707,[],""]
+4:I[6423,[],""]
+7:I[8003,["185","static/chunks/app/layout-f946993beae0edab.js"],""]
+2:T355d,<div style="background-image:url(cache2/images/59d53bbcb046a_1000x0_cover.1ctapfc.jpg);"
+     class="background-cover inner-shadow">
+    <div class="section-container bg-dark2">
+        <div class="container-padding">
+            <style>.s11 {
+                min-height: 400px;
+                display: flex;
                 flex-direction: column;
             }
-        }</style>
-        <style>.s19 {
-            display: flex;
-            overflow: hidden;
-            padding: 1em;
-        }
 
-        .s19 > * {
-            overflow: hidden;
-        }
-
-        .s21 {
-            font-size: 0.9em;
-            margin-bottom: 0.5em;
-        }
-
-        @media ( max-width: 600px ) {
-            .s23 {
-                flex-direction: column;
-            }
-        }</style>
-            <style>.s20 {
-                background-size: cover;
-                background-position: center;
-                background-repeat: no-repeat;
-            }
-
-            .s22 {
-                width: 200px;
-                height: 200px;
-                min-width: 200px;
-            }
-
-            @media ( max-width: 600px ) {
-                .s24 {
-                    margin: auto;
+            @media ( min-width: 600px ) {
+                .s11 {
+                    flex-direction: row;
                 }
-            }</style>
+            }
 
-
-        <div class="grid-padding s18">
-            <div class="bg-dark1 container-padding">
-                <h1>Noticias</h1>
-                <div id="legacy-news-list"></div>
-                <a href="/news.html" title="Ver noticias anteriores" alt="Ver noticias anteriores"
-                   style="margin-top:1em;" class="wide-button">Ver noticias anteriores</a></div>
-            <div>
-                <div class="grid-padding layout-column">
-                    <div class="bg-dark1 container-padding">
-                        <div class="grid-padding" style="overflow:hidden;font-size:0.8em">
-                        </div>
-                        <div style="margin-top:1em">
-                            <div class="layout-row layout-wrap layout-center">
-                                <style>.s25 {
-                                    box-sizing: border-box;
-                                    text-shadow: 0 2px 2px black;
-                                    text-align: center;
-                                    width: 150px;
-                                    height: 150px;
-                                    min-height: 150px;
-                                    padding: 10px;
-                                }
-
-                                .s26 {
-                                    background-color: rgba(100, 200, 255, 0.5);
-                                }
-
-                                .s26:hover {
-                                    background-color: rgba(100, 200, 255, 1);
-                                }</style>
-                                <a href="http://www.sumergete.cl" title="Sumérgete"
-                                   class="bg-dark1 font-emph layout-column layout-center s25 s26">
-                                    <style>.s27 {
-                                        flex-grow: 1;
-                                        margin: 10px;
-                                        background-position: center;
-                                        background-size: contain;
-                                        background-repeat: no-repeat;
-                                    }</style>
-                                    <div style="background-image:url(/assets/images/logos/sumergete.png);"
-                                         class="s27"></div>
-                                    <div>Sumérgete</div>
-                                </a>
-                                <style>.s28 {
-                                    background-color: rgba(255, 200, 100, 0.5);
-                                }
-
-                                .s28:hover {
-                                    background-color: rgba(255, 200, 100, 1);
-                                }</style>
-                                <a href="http://tonytonina.cl" title="Tony Tonina"
-                                   class="bg-dark1 font-emph layout-column layout-center s25 s28">
-                                    <div style="background-image:url(/assets/images/logos/tony.png);" class="s27"></div>
-                                    <div>Tony Tonina</div>
-                                </a>
-                                <style>.s29 {
-                                    background-color: rgba(200, 100, 255, 0.5);
-                                }
-
-                                .s29:hover {
-                                    background-color: rgba(200, 100, 255, 1);
-                                }</style>
-                                <style>.s31 {
-                                    background-color: rgba(100, 255, 200, 0.5);
-                                }
-
-                                .s31:hover {
-                                    background-color: rgba(100, 255, 200, 1);
-                                }</style>
-                                <style>.s32 {
-                                    background-color: rgba(255, 200, 100, 0.5);
-                                }
-
-                                .s32:hover {
-                                    background-color: rgba(255, 200, 100, 1);
-                                }</style>
-</div>
-                        </div>
-                        <div class="layout-row layout-center layout-wrap grid-padding" style="margin-top:1em">
-                                <style>.s33 {
-                                    box-sizing: border-box;
-                                    text-align: center;
-                                    font-size: 2em;
-                                    width: 1.6em;
-                                    height: 1.6em;
-                                    min-height: 1.6em;
-                                    border-radius: 50%;
-                                }
-
-                                .s34 {
-                                    background-color: #3b5998;
-                                }
-
-                                .s34:hover {
-                                    background-color: #6395ff;
-                                }</style>
-
-                            <div>
-                                <style>.s35 {
-                                    background-color: #4099ff;
-                                }
-
-                                .s35:hover {
-                                    background-color: #a0ccff;
-                                }</style>
-                                <a alt="Twitter" href="http://twitter.imo-chile.cl"
-                                   class="layout-column layout-center s33 s35"><i class="fa fa-twitter s0"></i></a>
-                            </div>
-                            <div>
-                                <style>.s36 {
-                                    background-color: #cc181e;
-                                }
-
-                                .s36:hover {
-                                    background-color: #ff5a5f;
-                                }</style>
-                                <a alt="Youtube" href="http://videos.imo-chile.cl"
-                                   class="layout-column layout-center s33 s36"><i class="fa fa-youtube-play s0"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div>
-                        <div class="box-shadow responsive responsive-16-9">
-                            <iframe src="https://www.youtube.com/embed/7a1Qy7mlAEg"></iframe>
-                        </div>
-                    </div>
-                    <div>
-                        <div class="box-shadow responsive responsive-16-9">
-                            <iframe src="https://www.youtube.com/embed/08Ou3ZIk-nM"></iframe>
-                        </div>
+            @media ( min-width: 600px ) {
+                .s11 > * {
+                    min-width: calc(50% - 1em);
+                }</style>
+            <div class="grid-padding s11">
+                <div class="layout-column layout-center">
+                    <style>.s12 {
+                        font-size: 3em;
+                        text-align: center;
+                        overflow: hidden;
+                    }</style>
+                    <h1 class="s12">Investigación</h1></div>
+                <div class="layout-column layout-center">
+                    <style>.s13 {
+                        font-size: 1.4em;
+                        text-align: center;
+                        overflow: hidden;
+                    }</style>
+                    <div class="s13">Realizamos investigación de frontera e interdisciplinaria en oceanografía,
+                        abordando problemáticas científicas en forma integrativa y colaborativa.
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<div class="section-container bg-dark2" style="margin-top:1em">
+<div class="section-container">
     <div class="container-padding">
-        <h1>Estamos en las siguientes redes de colaboración</h1>
-        <div class="layout-row layout-wrap layout-center grid-padding"><a href="http://hubapta.com" title="Hub APTA"
-                                                                          class="container-padding bg-hover"><img
-                src="cache2/images/logo-apta-claro_0x100_cover.1cus6n6.png"/></a><a href="http://laoca.cl" title="LAOCA"
-                                                                                    class="container-padding bg-hover"><img
-                src="cache2/images/laoca-red_0x100_cover.1dejs42.jpg"/></a><a href="#"
-                                                                              title="GDRI &quot;DIVERSITY, EVOLUTION AND BIOTECHNOLOGY OF MARINE ALGAE&quot;"
-                                                                              class="container-padding bg-hover"></a>
-        </div>
-    </div>
+        <h1>¿Cuál es nuestra principal área de interés?</h1>
+        <p>El Océano Pacífico Sur-Oriental (PSO), dado a que presenta intensos gradientes hidrográficos, biogeoquímicos
+            y ecológicos, desde aguas altamente productivas del Sistema de Corrientes Humboldt, hasta aguas altamente
+            oligotróficas del Giro Subtropical.</p>
+
+        <p>Durante la última década, se ha logrado una importante comprensión sobre la estructura y el funcionamiento
+            del Sistema de Corrientes de Humboldt. Sin embargo, se sabe muy poco sobre la vasta región de aguas
+            oceánicas y de la actividad de mesoescala que conecta los ambientes contrastantes. En el Instituto Milenio
+            en Oceanografía queremos centrar parte de nuestra investigación en esta zona del océano.</p>
+        <h1>¿Cuál es el impacto de hacer investigación en el Pacífico Sur-Oriental?</h1>
+        <p>Está claro que la dinámica del Pacífico Sur-Oriental tiene un impacto global por ser una región de formación
+            de la importante Agua Intermedia Antártica, por tener fuertes teleconexiones atmosféricas-oceánicas con el
+            océano Ecuatorial e intercambios costa-océano, y por contar con una de las principales zonas de mínimo
+            oxígeno (ZMO) en los océanos.</p>
+        <p>Las peculiaridades de los ecosistemas en el Pacífico Sur-Oriental los transforman en laboratorios naturales
+            para el estudio del funcionamiento del océano y predecir cómo los ecosistemas podrían responder a los
+            cambios globales futuros. Estos estudios representarán la base sobre la cual planificar el
+            manejo-conservación de los ecosistemas únicos en esta región oceánica.</p></div>
 </div>
-<div class="section-container bg-dark1">
+
+<div class="section-container bg-dark2">
     <div class="container-padding">
         <h1>Últimas publicaciones</h1>
-        <div class="layout-column grid-padding">
-            <style>.s37 {
+        <div class="grid-padding layout-column">
+            <style>.s20 {
                 overflow-x: hidden;
             }</style>
-            <div class="bg-dark1 container-padding s37">
+            <div class="bg-dark1 container-padding s20">
                 <div style="font-size:0.8em;"><h1 style="margin-bottom:0;">Ocean acidification induces distinct
                     metabolic responses in subtropical zooplankton under oligotrophic conditions and after simulated
                     upwelling</h1>
@@ -297,42 +84,42 @@
                                     href="http://dx.doi.org/10.1016/j.scitotenv.2021.152252"
                                     style="text-decoration:underline;color:#CCC;margin-right:2em;">doi:10.1016/j.scitotenv.2021.152252</a><i
                                     class="fa fa-calendar fa-fw s0 s7"></i>Marzo de 2022</p>
-                            <style>.s39 > * {
+                            <style>.s22 > * {
                                 margin: 0.25em;
                                 white-space: nowrap;
                                 padding: 0.5em;
                             }</style>
-                            <div class="layout-row layout-wrap s39">
-                                <style>.s38 {
+                            <div class="layout-row layout-wrap s22">
+                                <style>.s21 {
                                     display: block;
                                     padding: 0.5em;
                                     white-space: nowrap;
                                 }</style>
-                                <a href="/team/osma-natalia.html" class="bg-dark1 bg-hover s38"><i
+                                <a href="/team/osma-natalia.html" class="bg-dark1 bg-hover s21"><i
                                         class="fa fa-user fa-fw s0 s7"></i>Osma, N.</a><a
-                                    href="/team/vargas-cristian.html" class="bg-dark1 bg-hover s38"><i
+                                    href="/team/vargas-cristian.html" class="bg-dark1 bg-hover s21"><i
                                     class="fa fa-user fa-fw s0 s7"></i>Vargas,
                                 C.A.</a><span>Algueró-Muñíz, M.</span><span>Bach, L.T.</span><span>Gómez, M.</span><span>Horn, H.G.</span><span>..., </span><a
-                                    href="/team/fernandez-igor.html" class="bg-dark1 bg-hover s38"><i
+                                    href="/team/fernandez-igor.html" class="bg-dark1 bg-hover s21"><i
                                     class="fa fa-user fa-fw s0 s7"></i>Fernández-Urruzola, I.</a></div>
                         </div>
                         <div style="flex-grow:1;"></div>
-                        <style>.s40 {
+                        <style>.s23 {
                             align-content: flex-end;
                             align-items: flex-end;
                             justify-content: flex-end;
                         }
 
-                        .s40 > * {
+                        .s23 > * {
                             margin: 0.25em;
                         }</style>
-                        <div class="layout-row layout-wrap s40"><a
+                        <div class="layout-row layout-wrap s23"><a
                                 href="/research-line/a-variable-and-changing-ocean.html"
-                                class="bg-dark1 bg-hover s38">A</a></div>
+                                class="bg-dark1 bg-hover s21">A</a></div>
                     </div>
                 </div>
             </div>
-            <div class="bg-dark1 container-padding s37">
+            <div class="bg-dark1 container-padding s20">
                 <div style="font-size:0.8em;"><h1 style="margin-bottom:0;">Automatic Detection of Slow Slip Events Using
                     the PICCA: Application to Chilean GNSS Data</h1>
                     <div class="layout-row">
@@ -343,21 +130,21 @@
                                     href="http://dx.doi.org/10.3389/feart.2021.788054"
                                     style="text-decoration:underline;color:#CCC;margin-right:2em;">doi:10.3389/feart.2021.788054</a><i
                                     class="fa fa-calendar fa-fw s0 s7"></i>Diciembre de 2021</p>
-                            <div class="layout-row layout-wrap s39"><span>Donoso, F.</span><a
-                                    href="/team/moreno-marcos.html" class="bg-dark1 bg-hover s38"><i
+                            <div class="layout-row layout-wrap s22"><span>Donoso, F.</span><a
+                                    href="/team/moreno-marcos.html" class="bg-dark1 bg-hover s21"><i
                                     class="fa fa-user fa-fw s0 s7"></i>Moreno,
                                 M.</a><span>Ortega-Culaciati, F.</span><span>Bedford, J.R</span><span>Benavente, R.</span>
                             </div>
                         </div>
                         <div style="flex-grow:1;"></div>
-                        <div class="layout-row layout-wrap s40"><a
+                        <div class="layout-row layout-wrap s23"><a
                                 href="/research-line/a-variable-and-changing-ocean.html"
-                                class="bg-dark1 bg-hover s38">A</a><a href="/research-line/the-deep-ocean.html"
-                                                                      class="bg-dark1 bg-hover s38">T</a></div>
+                                class="bg-dark1 bg-hover s21">A</a><a href="/research-line/the-deep-ocean.html"
+                                                                      class="bg-dark1 bg-hover s21">T</a></div>
                     </div>
                 </div>
             </div>
-            <div class="bg-dark1 container-padding s37">
+            <div class="bg-dark1 container-padding s20">
                 <div style="font-size:0.8em;"><h1 style="margin-bottom:0;">Spatial and interannual variability in the
                     distribution of euphausiid life stages in the permanent upwelling system off northern Chile</h1>
                     <div class="layout-row">
@@ -366,19 +153,19 @@
                             <p><i class="fa fa-link fa-fw s0 s7"></i><a href="http://dx.doi.org/10.1093/icesjms/fsab241"
                                                                         style="text-decoration:underline;color:#CCC;margin-right:2em;">doi:10.1093/icesjms/fsab241</a><i
                                     class="fa fa-calendar fa-fw s0 s7"></i>Diciembre de 2021</p>
-                            <div class="layout-row layout-wrap s39"><a href="/team/diaz-macarena.html"
-                                                                       class="bg-dark1 bg-hover s38"><i
+                            <div class="layout-row layout-wrap s22"><a href="/team/diaz-macarena.html"
+                                                                       class="bg-dark1 bg-hover s21"><i
                                     class="fa fa-user fa-fw s0 s7"></i>Díaz, M.</a><span>S. Saldías, G.</span><span>Letelier, J.</span><a
-                                    href="/team/riquelme-ramiro.html" class="bg-dark1 bg-hover s38"><i
+                                    href="/team/riquelme-ramiro.html" class="bg-dark1 bg-hover s21"><i
                                     class="fa fa-user fa-fw s0 s7"></i>Riquelme-Bugueño, R.</a></div>
                         </div>
                         <div style="flex-grow:1;"></div>
-                        <div class="layout-row layout-wrap s40"><a href="/research-line/the-deep-ocean.html"
-                                                                   class="bg-dark1 bg-hover s38">T</a></div>
+                        <div class="layout-row layout-wrap s23"><a href="/research-line/the-deep-ocean.html"
+                                                                   class="bg-dark1 bg-hover s21">T</a></div>
                     </div>
                 </div>
             </div>
-            <div class="bg-dark1 container-padding s37">
+            <div class="bg-dark1 container-padding s20">
                 <div style="font-size:0.8em;"><h1 style="margin-bottom:0;">Spatial and Temporal Variability of Parasite
                     Communities: Implications for Fish Stock Identification</h1>
                     <div class="layout-row">
@@ -388,17 +175,17 @@
                             <p><i class="fa fa-link fa-fw s0 s7"></i><a href="http://dx.doi.org/10.3390/fishes6040071"
                                                                         style="text-decoration:underline;color:#CCC;margin-right:2em;">doi:10.3390/fishes6040071</a><i
                                     class="fa fa-calendar fa-fw s0 s7"></i>Diciembre de 2021</p>
-                            <div class="layout-row layout-wrap s39"><span>Espinola-Novelo, J.F</span><a
-                                    href="/team/oliva-marcelo.html" class="bg-dark1 bg-hover s38"><i
+                            <div class="layout-row layout-wrap s22"><span>Espinola-Novelo, J.F</span><a
+                                    href="/team/oliva-marcelo.html" class="bg-dark1 bg-hover s21"><i
                                     class="fa fa-user fa-fw s0 s7"></i>Oliva, M.E.</a></div>
                         </div>
                         <div style="flex-grow:1;"></div>
-                        <div class="layout-row layout-wrap s40"><a href="/research-line/the-deep-ocean.html"
-                                                                   class="bg-dark1 bg-hover s38">T</a></div>
+                        <div class="layout-row layout-wrap s23"><a href="/research-line/the-deep-ocean.html"
+                                                                   class="bg-dark1 bg-hover s21">T</a></div>
                     </div>
                 </div>
             </div>
-            <div class="bg-dark1 container-padding s37">
+            <div class="bg-dark1 container-padding s20">
                 <div style="font-size:0.8em;"><h1 style="margin-bottom:0;">Do Differences in Latitudinal Distributions
                     of Species and Organelle Haplotypes Reflect Thermal Reaction Norms Within the Emiliania/Gephyrocapsa
                     Complex?</h1>
@@ -410,73 +197,24 @@
                                     href="http://dx.doi.org/10.3389/fmars.2021.785763"
                                     style="text-decoration:underline;color:#CCC;margin-right:2em;">doi:10.3389/fmars.2021.785763</a><i
                                     class="fa fa-calendar fa-fw s0 s7"></i>Diciembre de 2021</p>
-                            <div class="layout-row layout-wrap s39"><a href="/team/von-dassow-peter.html"
-                                                                       class="bg-dark1 bg-hover s38"><i
+                            <div class="layout-row layout-wrap s22"><a href="/team/von-dassow-peter.html"
+                                                                       class="bg-dark1 bg-hover s21"><i
                                     class="fa fa-user fa-fw s0 s7"></i>Von Dassow, P.</a><span>Muñoz, P.</span><span>Pinon, S.</span><span>Velaco-Senovilla, E.</span><span>Anguita-Salinas, S.</span>
                             </div>
                         </div>
                         <div style="flex-grow:1;"></div>
-                        <div class="layout-row layout-wrap s40"><a
+                        <div class="layout-row layout-wrap s23"><a
                                 href="/research-line/a-variable-and-changing-ocean.html"
-                                class="bg-dark1 bg-hover s38">A</a></div>
+                                class="bg-dark1 bg-hover s21">A</a></div>
                     </div>
                 </div>
             </div>
         </div>
-        <a href="/publications.html" title="Ver publicaciones anteriores" alt="Ver publicaciones anteriores"
-           style="margin-top:1em;" class="wide-button">Ver publicaciones anteriores</a></div>
+    </div>
 </div>
-<div class="section-container bg-dark2">
-    <div class="container-padding">
-        <h1>Conoce nuestras líneas de investigación</h1>
-        <div class="layout-row layout-wrap layout-center grid-padding layout-grid-2-1">
-            <div>
-                <div class="responsive responsive-4-3">
-                    <a href="/research-line/the-deep-ocean.html" title="The Deep Ocean" class="box-shadow box-hover">
-                        <style>.s41 {
-                            overflow: hidden;
-                            background-position: center;
-                            background-size: cover;
-                            width: 100%;
-                            height: 100%;
-                            display: flex;
-                            flex-direction: column;
-                            justify-content: flex-end;
-                        }</style>
-                        <div style="background-image:url(cache2/images/59ad69cd45134_600x0_cover.1d3gmcv.jpg);"
-                             class="s41">
-                            <div>
-                                <div style="padding:1em;" class="bg-dark2">
-                                    <div><h2>The Deep Ocean</h2>
-                                        <p>What are the physical and biogeochemical characteristics of deep and
-                                            ultra-deep waters of the eastern South Pacific, and which of those determine
-                                            the diversity and functional structure of their pelagic communities?</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </a></div>
-            </div>
-            <div>
-                <div class="responsive responsive-4-3">
-                    <a href="/research-line/a-variable-and-changing-ocean.html" title="A Variable and Changing Ocean"
-                       class="box-shadow box-hover">
-                        <div style="background-image:url(cache2/images/59ad69e76e757_600x0_cover.1cqr50n.jpg);"
-                             class="s41">
-                            <div>
-                                <div style="padding:1em;" class="bg-dark2">
-                                    <div><h2>A Variable and Changing Ocean</h2>
-                                        <p></p></div>
-                                </div>
-                            </div>
-                        </div>
-                    </a></div>
-            </div>
-        </div>
-        <a href="/researchers.html" title="Conoce a todos nuestros investigadores"
-           alt="Conoce a todos nuestros investigadores" style="margin-top:1em;" class="wide-button">Conoce a todos
-            nuestros investigadores</a></div>
-</div>5:T27e2,<div class="section-container" style="background-color:rgba(255,255,255, 0.3);">
+
+
+5:T27e2,<div class="section-container" style="background-color:rgba(255,255,255, 0.3);">
     <header style="position:relative;">
         <style>.s1 {
             width: 100%;
@@ -693,7 +431,7 @@
             </div>
         </div>
     </nav>
-</div>8:T1b6f,<div class="section-container bg-dark3">
+</div>6:T1b6f,<div class="section-container bg-dark3">
     <div class="container-padding">
         <style>.sf14 {
             justify-content: space-between;
@@ -816,6 +554,6 @@
         }</style>
         <div class="sf17">© 2025 - Instituto Milenio de Oceanografía</div>
     </div>
-</div>0:["1Q7Os5TfBjxy-vhPpCA3O",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1",["$","main",null,{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{}],["$","$L4",null,{}]]}],null],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8e3abf49f0819d06.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"es","children":[["$","head",null,{"children":[["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/assets/icons/imo16.png","sizes":"16x16"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/assets/icons/imo32.png","sizes":"32x32"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/assets/icons/imo96.png","sizes":"96x96"}],["$","link",null,{"rel":"apple-touch-icon","href":"/assets/icons/imo180.png","sizes":"180x180"}]]}],["$","body",null,{"style":{"padding":0,"margin":0},"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$5"}}],["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$8"}}],["$","$L9",null,{"src":"/bundle/index.min.js","strategy":"afterInteractive"}]]}]]}]],null],null],["$La",null]]]]
-a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Instituto Milenio de Oceanografía"}]]
+</div>0:["1Q7Os5TfBjxy-vhPpCA3O",[[["",{"children":["research",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["research",{"children":["__PAGE__",{},[["$L1",["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","research","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8e3abf49f0819d06.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"es","children":[["$","head",null,{"children":[["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/assets/icons/imo16.png","sizes":"16x16"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/assets/icons/imo32.png","sizes":"32x32"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/assets/icons/imo96.png","sizes":"96x96"}],["$","link",null,{"rel":"apple-touch-icon","href":"/assets/icons/imo180.png","sizes":"180x180"}]]}],["$","body",null,{"style":{"padding":0,"margin":0},"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$5"}}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}],["$","$L7",null,{"src":"/bundle/index.min.js","strategy":"afterInteractive"}]]}]]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Instituto Milenio de Oceanografía"}]]
 1:null
