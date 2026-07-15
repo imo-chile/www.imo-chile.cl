@@ -1,0 +1,4 @@
+:HL["/_next/static/css/8e3abf49f0819d06.css","style"]
+:HL["/_next/static/css/c6f9cce33ce8dd06.css","style"]
+:HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"posts","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"2026-06-16-curso-reinaldo","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"dOPd6lQ8Ng71j0F6oo9ef"}

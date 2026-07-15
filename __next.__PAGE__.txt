@@ -1,0 +1,207 @@
+1:"$Sreact.fragment"
+2:I[3273,["137","static/chunks/137-775bd5f04b9e4c8a.js","568","static/chunks/568-3757b40ba7a7fe71.js","974","static/chunks/app/page-8ca0169204040dc2.js"],"default"]
+e:I[2275,["137","static/chunks/137-775bd5f04b9e4c8a.js","568","static/chunks/568-3757b40ba7a7fe71.js","974","static/chunks/app/page-8ca0169204040dc2.js"],"default"]
+f:I[5544,["137","static/chunks/137-775bd5f04b9e4c8a.js","568","static/chunks/568-3757b40ba7a7fe71.js","974","static/chunks/app/page-8ca0169204040dc2.js"],"default"]
+10:I[1872,[],"OutletBoundary"]
+11:"$Sreact.suspense"
+13:I[9568,["137","static/chunks/137-775bd5f04b9e4c8a.js","568","static/chunks/568-3757b40ba7a7fe71.js","974","static/chunks/app/page-8ca0169204040dc2.js"],""]
+:HL["/_next/static/css/37821617a0ccfd63.css","style"]
+3:T1e89,<div style="margin-top:1em;" class="section-container">
+    <div>
+        <style>.s18 {
+            display: flex;
+        }
+
+        @media ( max-width: 1040px) {
+            .s18 {
+                flex-direction: column;
+            }
+        }</style>
+        <style>.s19 {
+            display: flex;
+            overflow: hidden;
+            padding: 1em;
+        }
+
+        .s19 > * {
+            overflow: hidden;
+        }
+
+        .s21 {
+            font-size: 0.9em;
+            margin-bottom: 0.5em;
+        }
+
+        @media ( max-width: 600px ) {
+            .s23 {
+                flex-direction: column;
+            }
+        }</style>
+            <style>.s20 {
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+            }
+
+            .s22 {
+                width: 200px;
+                height: 200px;
+                min-width: 200px;
+            }
+
+            @media ( max-width: 600px ) {
+                .s24 {
+                    margin: auto;
+                }
+            }</style>
+
+
+        <div class="grid-padding s18">
+            <div class="bg-dark1 container-padding">
+                <h1>Noticias</h1>
+                <div id="legacy-news-list"></div>
+                <a href="/news.html" title="Ver noticias anteriores" alt="Ver noticias anteriores"
+                   style="margin-top:1em;" class="wide-button">Ver noticias anteriores</a></div>
+            <div>
+                <div class="grid-padding layout-column">
+                    <div class="bg-dark1 container-padding">
+                        <div class="grid-padding" style="overflow:hidden;font-size:0.8em">
+                        </div>
+                        <div style="margin-top:1em">
+                            <div class="layout-row layout-wrap layout-center">
+                                <style>.s25 {
+                                    box-sizing: border-box;
+                                    text-shadow: 0 2px 2px black;
+                                    text-align: center;
+                                    width: 150px;
+                                    height: 150px;
+                                    min-height: 150px;
+                                    padding: 10px;
+                                }
+
+                                .s26 {
+                                    background-color: rgba(100, 200, 255, 0.5);
+                                }
+
+                                .s26:hover {
+                                    background-color: rgba(100, 200, 255, 1);
+                                }</style>
+                                <a href="http://www.sumergete.cl" title="Sumérgete"
+                                   class="bg-dark1 font-emph layout-column layout-center s25 s26">
+                                    <style>.s27 {
+                                        flex-grow: 1;
+                                        margin: 10px;
+                                        background-position: center;
+                                        background-size: contain;
+                                        background-repeat: no-repeat;
+                                    }</style>
+                                    <div style="background-image:url(/assets/images/logos/sumergete.png);"
+                                         class="s27"></div>
+                                    <div>Sumérgete</div>
+                                </a>
+                                <style>.s28 {
+                                    background-color: rgba(255, 200, 100, 0.5);
+                                }
+
+                                .s28:hover {
+                                    background-color: rgba(255, 200, 100, 1);
+                                }</style>
+                                <a href="http://tonytonina.cl" title="Tony Tonina"
+                                   class="bg-dark1 font-emph layout-column layout-center s25 s28">
+                                    <div style="background-image:url(/assets/images/logos/tony.png);" class="s27"></div>
+                                    <div>Tony Tonina</div>
+                                </a>
+                                <style>.s29 {
+                                    background-color: rgba(200, 100, 255, 0.5);
+                                }
+
+                                .s29:hover {
+                                    background-color: rgba(200, 100, 255, 1);
+                                }</style>
+                                <style>.s31 {
+                                    background-color: rgba(100, 255, 200, 0.5);
+                                }
+
+                                .s31:hover {
+                                    background-color: rgba(100, 255, 200, 1);
+                                }</style>
+                                <style>.s32 {
+                                    background-color: rgba(255, 200, 100, 0.5);
+                                }
+
+                                .s32:hover {
+                                    background-color: rgba(255, 200, 100, 1);
+                                }</style>
+</div>
+                        </div>
+                        <div class="layout-row layout-center layout-wrap grid-padding" style="margin-top:1em">
+                                <style>.s33 {
+                                    box-sizing: border-box;
+                                    text-align: center;
+                                    font-size: 2em;
+                                    width: 1.6em;
+                                    height: 1.6em;
+                                    min-height: 1.6em;
+                                    border-radius: 50%;
+                                }
+
+                                .s34 {
+                                    background-color: #3b5998;
+                                }
+
+                                .s34:hover {
+                                    background-color: #6395ff;
+                                }</style>
+
+                            <div>
+                                <style>.s35 {
+                                    background-color: #4099ff;
+                                }
+
+                                .s35:hover {
+                                    background-color: #a0ccff;
+                                }</style>
+                                <a alt="Twitter" href="http://twitter.imo-chile.cl"
+                                   class="layout-column layout-center s33 s35"><i class="fa fa-twitter s0"></i></a>
+                            </div>
+                            <div>
+                                <style>.s36 {
+                                    background-color: #cc181e;
+                                }
+
+                                .s36:hover {
+                                    background-color: #ff5a5f;
+                                }</style>
+                                <a alt="Youtube" href="http://videos.imo-chile.cl"
+                                   class="layout-column layout-center s33 s36"><i class="fa fa-youtube-play s0"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="box-shadow responsive responsive-16-9">
+                            <iframe src="https://www.youtube.com/embed/7a1Qy7mlAEg"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section-container bg-dark1">
+    <div class="container-padding">
+        <h1>Conoce nuestras líneas de investigación</h1>
+        <div id="legacy-research-lines"></div>
+    </div>
+</div>
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","$L2",null,{}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6"]}],["$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dOPd6lQ8Ng71j0F6oo9ef"}
+4:["$","div",null,{"className":"section-container bg-dark2","children":["$","div",null,{"className":"container-padding","children":[["$","div",null,{"className":"PublicationsSection_sectionHeader__KxDdg","children":[["$","h1",null,{"className":"PublicationsSection_sectionTitle__3pZPJ","children":"Ultimas publicaciones"}],["$","p",null,{"className":"PublicationsSection_sectionHint__CG66g","children":[5," destacadas"]}]]}],["$","div",null,{"className":"PublicationsSection_entries__Af1FK","children":[["$","article","pub-2026-modelling-primary-production-multitude-of-theories-or-multitude-of-languages",{"className":"container-padding PublicationsSection_entry__vzbM1","children":[["$","div",null,{"className":"PublicationsSection_meta__gDBxh","children":["$","span",null,{"children":2026}]}],["$","h2",null,{"className":"PublicationsSection_title__FpHjT","children":"Modelling primary production: multitude of theories, or multitude of languages?"}],["$","p",null,{"className":"PublicationsSection_authors__twiog","children":"Jozef Skákala, Shubha Sathyendranath, Yuri Artioli, Deep S. Banerjee, Heather Bouman, Robert J. W. Brewin, Momme Butenschön, Stefano Ciavatta, Stephanie Dutkiewicz, Yanna Fidai, David Ford, Grinson George, Karen Guihou, Bror Jönsson, Marija Bačeković Koloper, Žarko Kovač, Lekshmi Krishnakumary, Gemma Kulk, Charlotte Laufkötter, Gennadi Lessin, Jann Paul Mattern, Angélique Melet, Alexandre Mignot, David Moffat, Fanny Monteiro, Mayra Rodriguez Bennadji, Cécile S. Rousseaux, Ranjini Swaminathan, Osvaldo Ulloa, Jerry Tjiputra"}],["$","p",null,{"className":"PublicationsSection_source__BOxPh","children":"Ocean Science 22 (3) 1457-1481"}],["$","div",null,{"className":"PublicationsSection_actions__W_NGD","children":["$","a",null,{"href":"https://os.copernicus.org/articles/22/1457/2026/","target":"_blank","rel":"noreferrer","className":"PublicationsSection_link__CKuD2","children":"Abrir publicacion"}]}]]}],["$","article","pub-2026-biogeography-of-living-coccolithophores-in-the-southeast-pacific-patterns-and-drivers-of-gephyrocapsa-spp-diversity",{"className":"container-padding PublicationsSection_entry__vzbM1","children":[["$","div",null,{"className":"PublicationsSection_meta__gDBxh","children":["$","span",null,{"children":2026}]}],["$","h2",null,{"className":"PublicationsSection_title__FpHjT","children":"Biogeography of living coccolithophores in the Southeast Pacific: patterns and drivers of Gephyrocapsa spp. diversity"}],["$","p",null,{"className":"PublicationsSection_authors__twiog","children":"Francisco Díaz, Sebastián Cornejo-Guzmán, Rodrigo Torres, Eduardo Menschel, Samuel Hormazabal, Catharina Alves-de-Souza, Peter von Dassow"}],["$","p",null,{"className":"PublicationsSection_source__BOxPh","children":"Progress in Oceanography 245 103737"}],["$","div",null,{"className":"PublicationsSection_actions__W_NGD","children":["$","a",null,{"href":"https://linkinghub.elsevier.com/retrieve/pii/S0079661126000716","target":"_blank","rel":"noreferrer","className":"PublicationsSection_link__CKuD2","children":"Abrir publicacion"}]}]]}],["$","article","pub-2026-terracem-3-integrating-machine-learning-and-icesat-2-altimetry-to-estimate-deformation-rates-from-wave-abrasion-terraces",{"className":"container-padding PublicationsSection_entry__vzbM1","children":[["$","div",null,{"className":"PublicationsSection_meta__gDBxh","children":["$","span",null,{"children":2026}]}],["$","h2",null,{"className":"PublicationsSection_title__FpHjT","children":"TerraceM-3: integrating machine learning and ICESat-2 altimetry to estimate deformation rates from wave-abrasion terraces"}],["$","p",null,{"className":"PublicationsSection_authors__twiog","children":"Julius Jara-Muñoz, Jürgen Mey, Roland Freisleben, Daniel Melnick, Markus Weiss, Patricio Winckler, Chrystelle Mavoungou, Manfred R. Strecker"}],"$L9","$La"]}],"$Lb","$Lc"]}],"$Ld"]}]}]
+5:["$","$Le",null,{}]
+6:["$","$Lf",null,{}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/37821617a0ccfd63.css","precedence":"next"}]
+8:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+9:["$","p",null,{"className":"PublicationsSection_source__BOxPh","children":"Earth Surface Dynamics 14 (2) 291-311"}]
+a:["$","div",null,{"className":"PublicationsSection_actions__W_NGD","children":["$","a",null,{"href":"https://esurf.copernicus.org/articles/14/291/2026/","target":"_blank","rel":"noreferrer","className":"PublicationsSection_link__CKuD2","children":"Abrir publicacion"}]}]
+b:["$","article","pub-2026-swot-detects-dispersive-tsunami-tied-to-a-near-trench-source-in-the-2025-kamchatka-earthquake",{"className":"container-padding PublicationsSection_entry__vzbM1","children":[["$","div",null,{"className":"PublicationsSection_meta__gDBxh","children":["$","span",null,{"children":2026}]}],["$","h2",null,{"className":"PublicationsSection_title__FpHjT","children":"SWOT detects dispersive tsunami tied to a near-trench source in the 2025 Kamchatka earthquake"}],["$","p",null,{"className":"PublicationsSection_authors__twiog","children":"Ignacio Sepúlveda, Bjarke Nilsson, Yao Yu, Matías Carvajal, Matthew Brandin, Alice-Agnes Gabriel, David Sandwell"}],["$","p",null,{"className":"PublicationsSection_source__BOxPh","children":"Science 391 (6792) 1368-1372"}],["$","div",null,{"className":"PublicationsSection_actions__W_NGD","children":["$","a",null,{"href":"https://www.science.org/doi/10.1126/science.aeb8634","target":"_blank","rel":"noreferrer","className":"PublicationsSection_link__CKuD2","children":"Abrir publicacion"}]}]]}]
+c:["$","article","pub-2026-separating-tectonic-and-climate-signals-in-holocene-sea-level-records-using-marine-terraces-in-central-chile",{"className":"container-padding PublicationsSection_entry__vzbM1","children":[["$","div",null,{"className":"PublicationsSection_meta__gDBxh","children":["$","span",null,{"children":2026}]}],["$","h2",null,{"className":"PublicationsSection_title__FpHjT","children":"Separating tectonic and climate signals in Holocene sea-level records using marine terraces in central Chile"}],["$","p",null,{"className":"PublicationsSection_authors__twiog","children":"Daniel Melnick, Julius Jara-Muñoz, Ed Garrett, Gaëlle Plissart, Roland Freisleben, Manfred R. Strecker"}],["$","p",null,{"className":"PublicationsSection_source__BOxPh","children":"Scientific Reports 16 (1)"}],["$","div",null,{"className":"PublicationsSection_actions__W_NGD","children":["$","a",null,{"href":"https://www.nature.com/articles/s41598-026-43249-6","target":"_blank","rel":"noreferrer","className":"PublicationsSection_link__CKuD2","children":"Abrir publicacion"}]}]]}]
+d:["$","$L13",null,{"href":"/publications","className":"PublicationsSection_archiveLink__sVZ9A","children":"Ver todas las publicaciones"}]
+12:null

@@ -1,0 +1,86 @@
+1:"$Sreact.fragment"
+c:I[2275,["568","static/chunks/568-3757b40ba7a7fe71.js","322","static/chunks/app/research/page-663fe0899c7cb744.js"],"default"]
+d:I[1872,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[9568,["568","static/chunks/568-3757b40ba7a7fe71.js","322","static/chunks/app/research/page-663fe0899c7cb744.js"],""]
+:HL["/_next/static/css/37821617a0ccfd63.css","style"]
+2:Te24,<div style="background-image:url(cache2/images/59d53bbcb046a_1000x0_cover.1ctapfc.jpg);"
+     class="background-cover inner-shadow">
+    <div class="section-container bg-dark2">
+        <div class="container-padding">
+            <style>.s11 {
+                min-height: 400px;
+                display: flex;
+                flex-direction: column;
+            }
+
+            @media ( min-width: 600px ) {
+                .s11 {
+                    flex-direction: row;
+                }
+            }
+
+            @media ( min-width: 600px ) {
+                .s11 > * {
+                    min-width: calc(50% - 1em);
+                }</style>
+            <div class="grid-padding s11">
+                <div class="layout-column layout-center">
+                    <style>.s12 {
+                        font-size: 3em;
+                        text-align: center;
+                        overflow: hidden;
+                    }</style>
+                    <h1 class="s12">Líneas de Investigación</h1></div>
+                <div class="layout-column layout-center">
+                    <style>.s13 {
+                        font-size: 1.4em;
+                        text-align: center;
+                        overflow: hidden;
+                    }</style>
+                    <div class="s13">Realizamos investigación de frontera e interdisciplinaria en oceanografía,
+                        abordando problemáticas científicas en forma integrativa y colaborativa.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section-container">
+    <div class="container-padding">
+        <h1>¿Cuál es nuestra principal área de interés?</h1>
+        <p>El Océano Pacífico Sur-Oriental (PSO), dado a que presenta intensos gradientes hidrográficos, biogeoquímicos
+            y ecológicos, desde aguas altamente productivas del Sistema de Corrientes Humboldt, hasta aguas altamente
+            oligotróficas del Giro Subtropical.</p>
+
+        <p>Durante la última década, se ha logrado una importante comprensión sobre la estructura y el funcionamiento
+            del Sistema de Corrientes de Humboldt. Sin embargo, se sabe muy poco sobre la vasta región de aguas
+            oceánicas y de la actividad de mesoescala que conecta los ambientes contrastantes. En el Instituto Milenio
+            en Oceanografía queremos centrar parte de nuestra investigación en esta zona del océano.</p>
+        <h1>¿Cuál es el impacto de hacer investigación en el Pacífico Sur-Oriental?</h1>
+        <p>Está claro que la dinámica del Pacífico Sur-Oriental tiene un impacto global por ser una región de formación
+            de la importante Agua Intermedia Antártica, por tener fuertes teleconexiones atmosféricas-oceánicas con el
+            océano Ecuatorial e intercambios costa-océano, y por contar con una de las principales zonas de mínimo
+            oxígeno (ZMO) en los océanos.</p>
+        <p>Las peculiaridades de los ecosistemas en el Pacífico Sur-Oriental los transforman en laboratorios naturales
+            para el estudio del funcionamiento del océano y predecir cómo los ecosistemas podrían responder a los
+            cambios globales futuros. Estos estudios representarán la base sobre la cual planificar el
+            manejo-conservación de los ecosistemas únicos en esta región oceánica.</p></div>
+</div>
+<div class="section-container bg-dark1">
+    <div class="container-padding">
+        <h1>Conoce nuestras líneas de investigación</h1>
+        <div id="legacy-research-lines"></div>
+    </div>
+</div>
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"]}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dOPd6lQ8Ng71j0F6oo9ef"}
+3:["$","div",null,{"className":"section-container bg-dark2","children":["$","div",null,{"className":"container-padding","children":[["$","div",null,{"className":"PublicationsSection_sectionHeader__KxDdg","children":[["$","h1",null,{"className":"PublicationsSection_sectionTitle__3pZPJ","children":"Ultimas publicaciones"}],["$","p",null,{"className":"PublicationsSection_sectionHint__CG66g","children":[5," destacadas"]}]]}],["$","div",null,{"className":"PublicationsSection_entries__Af1FK","children":[["$","article","pub-2026-modelling-primary-production-multitude-of-theories-or-multitude-of-languages",{"className":"container-padding PublicationsSection_entry__vzbM1","children":[["$","div",null,{"className":"PublicationsSection_meta__gDBxh","children":["$","span",null,{"children":2026}]}],["$","h2",null,{"className":"PublicationsSection_title__FpHjT","children":"Modelling primary production: multitude of theories, or multitude of languages?"}],["$","p",null,{"className":"PublicationsSection_authors__twiog","children":"Jozef Skákala, Shubha Sathyendranath, Yuri Artioli, Deep S. Banerjee, Heather Bouman, Robert J. W. Brewin, Momme Butenschön, Stefano Ciavatta, Stephanie Dutkiewicz, Yanna Fidai, David Ford, Grinson George, Karen Guihou, Bror Jönsson, Marija Bačeković Koloper, Žarko Kovač, Lekshmi Krishnakumary, Gemma Kulk, Charlotte Laufkötter, Gennadi Lessin, Jann Paul Mattern, Angélique Melet, Alexandre Mignot, David Moffat, Fanny Monteiro, Mayra Rodriguez Bennadji, Cécile S. Rousseaux, Ranjini Swaminathan, Osvaldo Ulloa, Jerry Tjiputra"}],["$","p",null,{"className":"PublicationsSection_source__BOxPh","children":"Ocean Science 22 (3) 1457-1481"}],["$","div",null,{"className":"PublicationsSection_actions__W_NGD","children":["$","a",null,{"href":"https://os.copernicus.org/articles/22/1457/2026/","target":"_blank","rel":"noreferrer","className":"PublicationsSection_link__CKuD2","children":"Abrir publicacion"}]}]]}],["$","article","pub-2026-biogeography-of-living-coccolithophores-in-the-southeast-pacific-patterns-and-drivers-of-gephyrocapsa-spp-diversity",{"className":"container-padding PublicationsSection_entry__vzbM1","children":[["$","div",null,{"className":"PublicationsSection_meta__gDBxh","children":["$","span",null,{"children":2026}]}],["$","h2",null,{"className":"PublicationsSection_title__FpHjT","children":"Biogeography of living coccolithophores in the Southeast Pacific: patterns and drivers of Gephyrocapsa spp. diversity"}],["$","p",null,{"className":"PublicationsSection_authors__twiog","children":"Francisco Díaz, Sebastián Cornejo-Guzmán, Rodrigo Torres, Eduardo Menschel, Samuel Hormazabal, Catharina Alves-de-Souza, Peter von Dassow"}],["$","p",null,{"className":"PublicationsSection_source__BOxPh","children":"Progress in Oceanography 245 103737"}],["$","div",null,{"className":"PublicationsSection_actions__W_NGD","children":["$","a",null,{"href":"https://linkinghub.elsevier.com/retrieve/pii/S0079661126000716","target":"_blank","rel":"noreferrer","className":"PublicationsSection_link__CKuD2","children":"Abrir publicacion"}]}]]}],["$","article","pub-2026-terracem-3-integrating-machine-learning-and-icesat-2-altimetry-to-estimate-deformation-rates-from-wave-abrasion-terraces",{"className":"container-padding PublicationsSection_entry__vzbM1","children":[["$","div",null,{"className":"PublicationsSection_meta__gDBxh","children":["$","span",null,{"children":2026}]}],["$","h2",null,{"className":"PublicationsSection_title__FpHjT","children":"TerraceM-3: integrating machine learning and ICESat-2 altimetry to estimate deformation rates from wave-abrasion terraces"}],["$","p",null,{"className":"PublicationsSection_authors__twiog","children":"Julius Jara-Muñoz, Jürgen Mey, Roland Freisleben, Daniel Melnick, Markus Weiss, Patricio Winckler, Chrystelle Mavoungou, Manfred R. Strecker"}],"$L7","$L8"]}],"$L9","$La"]}],"$Lb"]}]}]
+4:["$","$Lc",null,{}]
+5:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/37821617a0ccfd63.css","precedence":"next"}]
+6:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+7:["$","p",null,{"className":"PublicationsSection_source__BOxPh","children":"Earth Surface Dynamics 14 (2) 291-311"}]
+8:["$","div",null,{"className":"PublicationsSection_actions__W_NGD","children":["$","a",null,{"href":"https://esurf.copernicus.org/articles/14/291/2026/","target":"_blank","rel":"noreferrer","className":"PublicationsSection_link__CKuD2","children":"Abrir publicacion"}]}]
+9:["$","article","pub-2026-swot-detects-dispersive-tsunami-tied-to-a-near-trench-source-in-the-2025-kamchatka-earthquake",{"className":"container-padding PublicationsSection_entry__vzbM1","children":[["$","div",null,{"className":"PublicationsSection_meta__gDBxh","children":["$","span",null,{"children":2026}]}],["$","h2",null,{"className":"PublicationsSection_title__FpHjT","children":"SWOT detects dispersive tsunami tied to a near-trench source in the 2025 Kamchatka earthquake"}],["$","p",null,{"className":"PublicationsSection_authors__twiog","children":"Ignacio Sepúlveda, Bjarke Nilsson, Yao Yu, Matías Carvajal, Matthew Brandin, Alice-Agnes Gabriel, David Sandwell"}],["$","p",null,{"className":"PublicationsSection_source__BOxPh","children":"Science 391 (6792) 1368-1372"}],["$","div",null,{"className":"PublicationsSection_actions__W_NGD","children":["$","a",null,{"href":"https://www.science.org/doi/10.1126/science.aeb8634","target":"_blank","rel":"noreferrer","className":"PublicationsSection_link__CKuD2","children":"Abrir publicacion"}]}]]}]
+a:["$","article","pub-2026-separating-tectonic-and-climate-signals-in-holocene-sea-level-records-using-marine-terraces-in-central-chile",{"className":"container-padding PublicationsSection_entry__vzbM1","children":[["$","div",null,{"className":"PublicationsSection_meta__gDBxh","children":["$","span",null,{"children":2026}]}],["$","h2",null,{"className":"PublicationsSection_title__FpHjT","children":"Separating tectonic and climate signals in Holocene sea-level records using marine terraces in central Chile"}],["$","p",null,{"className":"PublicationsSection_authors__twiog","children":"Daniel Melnick, Julius Jara-Muñoz, Ed Garrett, Gaëlle Plissart, Roland Freisleben, Manfred R. Strecker"}],["$","p",null,{"className":"PublicationsSection_source__BOxPh","children":"Scientific Reports 16 (1)"}],["$","div",null,{"className":"PublicationsSection_actions__W_NGD","children":["$","a",null,{"href":"https://www.nature.com/articles/s41598-026-43249-6","target":"_blank","rel":"noreferrer","className":"PublicationsSection_link__CKuD2","children":"Abrir publicacion"}]}]]}]
+b:["$","$L10",null,{"href":"/publications","className":"PublicationsSection_archiveLink__sVZ9A","children":"Ver todas las publicaciones"}]
+f:null

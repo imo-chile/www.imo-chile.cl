@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[1872,[],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"section-container bg-dark1","children":["$","div",null,{"className":"container-padding","children":[["$","h1",null,{"children":"Archivo descontinuado"}],["$","p",null,{"children":"La seccion historica local fue retirada para evitar duplicar la fuente de publicaciones. La referencia vigente vive en el catalogo oficial de imo_org."}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dOPd6lQ8Ng71j0F6oo9ef"}
+4:null

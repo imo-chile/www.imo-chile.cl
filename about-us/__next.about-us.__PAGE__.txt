@@ -1,0 +1,114 @@
+1:"$Sreact.fragment"
+6:I[2275,["851","static/chunks/app/about-us/page-336f5e9d2750a629.js"],"default"]
+7:I[1872,[],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/css/37821617a0ccfd63.css","style"]
+2:T17eb,<div class="background-cover inner-shadow"
+     style="background-image: url(cache2/images/imo-en-el-cabo-de-hornos_1000x0_cover.1cucq40.jpg)">
+    <div class="section-container bg-dark2">
+        <div class="container-padding">
+            <div class="grid-padding jumbo-title-1">
+
+                <div class="layout-column layout-center">
+                    <h1 style="font-size:3em;text-align:center;overflow:hidden">Nosotros</h1>
+                </div>
+                <div class="layout-column layout-center">
+                    <div style="font-size:1.4em;text-align:center;overflow:hidden">
+                        Aspiramos a convertirnos en un Instituto reconocido internacionalmente en la investigación
+                        oceanográfica y la educación, liderando la exploración de la zona central y sud-oriental del
+                        Pacífico, impactando en el país y la sociedad en general.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section-container">
+    <div class="container-padding">
+        <div>
+            <h1>Historia</h1>
+            <p>El Instituto Milenio de Oceanografía (IMO) es un centro de excelencia que nace en diciembre de 2013 con
+                el fin de estudiar de los procesos físicos, biogeoquímicos y ecológicos de mar abierto así como a la
+                exploración del océano profundo y abisal, que incluye a los ecosistemas pelágicos asociados a montes
+                submarinos; islas oceánicas y la Fosa de Atacama.</p>
+
+            <p>Este Instituto fue creado a través de la Iniciativa Científica Milenio (ICM) del Ministerio de Economía,
+                Fomento y Turismo cuyo objetivo es contribuir al aumento de la competitividad científica y tecnológica
+                de Chile, entendida como la capacidad de generar, adaptar, contextualizar y aplicar nuevos conocimientos
+                científicos y tecnológicos en favor del desarrollo social y económico del país.</p>
+
+            <p>Con el objetivo de liderar la exploración del Océano Pacífico Sur Oriental, el Instituto Milenio de
+                Oceanografía (IMO) tiene un fuerte componente de colaboración nacional e internacional y actualmente se
+                encuentra planificando diversas expediciones oceanográficas orientadas al descubrimiento y prueba de
+                hipótesis a bordo del nuevo buque científico Cabo de Hornos.</p></div>
+    </div>
+</div>
+<div class="section-container">
+    <div class="container-padding">
+        <div class="grid-padding section-mision-vision">
+            <div class="bg-dark1 container-padding">
+                <h1>Misión</h1>
+                <p>La misión del Instituto Milenio de Oceanografía es:</p>
+                <h2>Investigación</h2>
+
+                <p>Realizar investigación de frontera e interdisciplinaria en oceanografía, abordando problemáticas
+                    científicas en forma integrativa y colaborativa.</p>
+
+                <h2>Exploración</h2>
+
+                <p>Desarrollar y aplicar nuevas tecnologías y plataformas para la observación y el trabajo experimental
+                    en el océano, incluyendo el uso del nuevo buque chileno de investigación Cabo de Hornos, para llegar
+                    a zonas inexploradas del Pacífico Sur.</p>
+
+                <h2>Formación</h2>
+
+                <p>Aumentar los recursos humanos en ciencias del mar en Chile y Sudamérica a través de la educación
+                    superior y la formación en investigación basada en la observación y experimentación directa en el
+                    mar.</p>
+
+                <h2>Extensión</h2>
+
+                <p>Informar y crear conciencia en el público en general y los tomadores de decisiones sobre la
+                    relevancia del océano, su conservación y su relación con los seres humanos y el cambio global.</p>
+            </div>
+            <div class="bg-dark1 container-padding">
+                <h1>Visión</h1>
+                <p>Aspiramos a convertirnos en un Instituto reconocido internacionalmente en la investigación
+                    oceanográfica y la educación, liderando la exploración de la zona central y sud-oriental del
+                    Pacífico, impactando en el país y la sociedad en general.</p>
+                <p>Nuestro compromiso es brindar un ambiente intelectualmente estimulante para la generación y difusión
+                    del conocimiento científico que transforma y genera nuevas comprensiones sobre el océano, desde una
+                    mirada creativa, audaz y colaborativa.</p>
+                <div class="box-shadow responsive responsive-16-9">
+                    <iframe src="https://www.youtube.com/embed/08Ou3ZIk-nM"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section-container bg-dark1">
+    <div class="container-padding">
+        <h1>Conoce nuestras líneas de investigación</h1>
+        <div id="legacy-research-lines"></div>
+    </div>
+</div>
+<div class="section-container bg-dark2">
+    <div class="container-padding">
+        <h1>Estamos en las siguientes redes de colaboración</h1>
+        <div class="layout-row layout-wrap layout-center grid-padding"><a href="http://hubapta.com" title="Hub APTA"
+                                                                          class="container-padding bg-hover"><img
+                src="cache2/images/logo-apta-claro_0x100_cover.1cus6n6.png"/></a><a href="http://laoca.cl" title="LAOCA"
+                                                                                    class="container-padding bg-hover"><img
+                src="cache2/images/laoca-red_0x100_cover.1dejs42.jpg"/></a><a href="#"
+                                                                              title="GDRI &quot;DIVERSITY, EVOLUTION AND BIOTECHNOLOGY OF MARINE ALGAE&quot;"
+                                                                              class="container-padding bg-hover"></a>
+        </div>
+    </div>
+</div>
+
+
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dOPd6lQ8Ng71j0F6oo9ef"}
+3:["$","$L6",null,{}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/37821617a0ccfd63.css","precedence":"next"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

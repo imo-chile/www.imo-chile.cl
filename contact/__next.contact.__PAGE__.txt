@@ -1,0 +1,103 @@
+1:"$Sreact.fragment"
+4:I[1872,[],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T116a,<div style="background-image:url(cache2/images/juan-fernandez_1000x0_cover.1cuctt1.jpg);"
+     class="background-cover inner-shadow">
+    <div class="section-container bg-dark2">
+        <div class="container-padding">
+            <style>.s11 {
+                min-height: 400px;
+                display: flex;
+                flex-direction: column;
+            }
+
+            @media ( min-width: 600px ) {
+                .s11 {
+                    flex-direction: row;
+                }
+            }
+
+            @media ( min-width: 600px ) {
+                .s11 > * {
+                    min-width: calc(50% - 1em);
+                }</style>
+            <div class="grid-padding s11">
+                <div class="layout-column layout-center">
+                    <style>.s12 {
+                        font-size: 3em;
+                        text-align: center;
+                        overflow: hidden;
+                    }</style>
+                    <h1 class="s12">Información de contacto</h1></div>
+                <div class="layout-column layout-center">
+                    <style>.s13 {
+                        font-size: 1.4em;
+                        text-align: center;
+                        overflow: hidden;
+                    }</style>
+                    <div class="s13">Información de contacto</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section-container bg-dark2">
+        <div class="container-padding">
+            <div class="layout-row layout-wrap layout-center"></div>
+        </div>
+    </div>
+</div>
+<div class="section-container">
+    <div class="container-padding">
+
+        <div class="bigger-font">
+            <ul>
+                <li>
+                    <a href="tel:+56-41-2661266" alt="+56-41-2661266" title="+56-41-2661266"><i
+                            class="fa fa-phone fa-fw s0 s7"></i>+56-41-2661266</a></li>
+                <li>
+                    <a href="mailto:contacto@imo-chile.cl" alt="contacto@imo-chile.cl" title="contacto@imo-chile.cl"><i
+                            class="fa fa-envelope fa-fw s0 s7"></i>contacto@imo-chile.cl</a></li>
+                <li>
+                    <a href="https://goo.gl/maps/qEj6oxczFnr" alt="Cabina 7 s/n" title="Cabina 7 s/n"><i
+                            class="fa fa-map-marker fa-fw s0 s7"></i>Cabina 7 s/n</a></li>
+                <li>
+                    <a href="https://goo.gl/maps/qEj6oxczFnr" alt="Barrio Universitario" title="Barrio Universitario"><i
+                            class="fa fa- fa-fw s0 s7"></i>Barrio Universitario</a></li>
+                <li>
+                    <a href="https://goo.gl/maps/qEj6oxczFnr" alt="Universidad de Concepción"
+                       title="Universidad de Concepción"><i class="fa fa- fa-fw s0 s7"></i>Universidad de Concepción</a>
+                </li>
+                <li>
+                    <a href="https://goo.gl/maps/qEj6oxczFnr" alt="Casilla 1313, Concepción 3"
+                       title="Casilla 1313, Concepción 3"><i class="fa fa- fa-fw s0 s7"></i>Casilla 1313, Concepción
+                        3</a></li>
+                <li>
+                    <a href="https://goo.gl/maps/qEj6oxczFnr" alt="Código postal 4070386" title="Código postal 4070386"><i
+                            class="fa fa- fa-fw s0 s7"></i>Código postal 4070386</a></li>
+                <li>
+                    <a href="https://goo.gl/maps/qEj6oxczFnr" alt="Concepción" title="Concepción"><i
+                            class="fa fa- fa-fw s0 s7"></i>Concepción</a></li>
+                <li>
+                    <a href="https://goo.gl/maps/qEj6oxczFnr" alt="Chile" title="Chile"><i
+                            class="fa fa- fa-fw s0 s7"></i>Chile</a></li>
+            </ul>
+        </div>
+
+    </div>
+</div>
+<div class="section-container bg-dark2">
+    <div class="container-padding">
+        <h1>Mapa</h1>
+        <div class="responsive responsive-16-9">
+            <iframe
+                    class="box-shadow"
+                    style="border: 0"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d682.0861990462031!2d-73.04046167074503!3d-36.831080898746386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9669b42ad730f063%3A0xb67eac18b6579230!2sInstituto+Milenio+de+Oceanograf%C3%ADa+(IMO)!5e1!3m2!1ses-419!2scl!4v1504804836875"
+                    frameborder=0
+            ></iframe>
+        </div>
+    </div>
+</div>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dOPd6lQ8Ng71j0F6oo9ef"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null
